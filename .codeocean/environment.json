@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"base_image": "registry.codeocean.com/codeocean/opencv:3.3.0-gcc5.4.0-ubuntu16.04",
+	"options": {},
+	"installers": {
+		"apt": {
+			"packages": [
+				{
+					"name": "gfortran"
+				}
+			],
+			"install_software_properties_common": true
+		}
+	}
+}
