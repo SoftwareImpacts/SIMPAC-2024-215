@@ -1,2 +1,11 @@
 metadata_version: 1
-name: EGC 1.0 (Energy Gradient Calculator)
+name: FEGC 1.0 (Flow Energy Gradient Calculator)
+description: FEGC 1.0 is a specialized software tool developed to compute the energy
+  gradient field and estimate the instability genesis locus from a velocity field
+  of fluid flow. This software is grounded in the methodologies presented in our recent
+  publication, where we demonstrated the derivation of the energy gradient from a
+  velocity field and its application in determining the instability genesis locus
+  in fluid flow. Our publication, "Derivation of Energy Gradient Function for Rayleigh-Taylor
+  Instability," outlines the theoretical framework and numerical methods utilized
+  in FEGC 1.0. By leveraging the principles discussed in the study, FEGC 1.0 offers
+  a robust and efficient solution for analyzing fluid instability phenomena.
