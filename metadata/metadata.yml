@@ -9,3 +9,15 @@ description: FEGC 1.0 is a specialized software tool developed to compute the en
   Instability," outlines the theoretical framework and numerical methods utilized
   in FEGC 1.0. By leveraging the principles discussed in the study, FEGC 1.0 offers
   a robust and efficient solution for analyzing fluid instability phenomena.
+tags:
+- Energy Gradient
+- Fluid Instability
+- Flow Field Velocity
+- Instability Initiation Locus
+authors:
+- name: Iman Farahbakhsh
+  affiliations:
+  - name: Amirkabir University of Technology
+corresponding_contributor:
+  name: Iman Farahbakhsh
+  email: i.farahbakhsh@aut.ac.ir
