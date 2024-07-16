@@ -14,7 +14,7 @@ REAL(8),PARAMETER                      :: IDX2=1.D0/(DX**2.D0)
 REAL(8),PARAMETER                      :: IDY2=1.D0/(DY**2.D0)
 REAL(8),PARAMETER                      :: RHO=7500.D0
 REAL(8),PARAMETER                      :: MU=10.D0/75.D0
-CHARACTER(14),PARAMETER                :: FILE_NAME="/data/INPUT.DAT"
+CHARACTER(15),PARAMETER                :: FILE_NAME="/code/INPUT.DAT"
 !--------------------------------------------------------------------------------------------------
 END MODULE PARAMETERS
 !==================================================================================================
