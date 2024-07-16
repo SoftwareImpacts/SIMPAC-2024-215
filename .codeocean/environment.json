@@ -6,7 +6,8 @@
 		"apt": {
 			"packages": [
 				{
-					"name": "gfortran"
+					"name": "gfortran",
+					"version": "4:5.3.1-1ubuntu1"
 				}
 			],
 			"install_software_properties_common": true
