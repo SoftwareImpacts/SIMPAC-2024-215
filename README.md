@@ -2,7 +2,7 @@
 # FEGC 1.0: Flow Energy Gradient Calculator
 
 **Version**: 1.0  
-**Authors**: Iman Farahbakhsh 
+**Authors**: Iman Farahbakhsh  
 **Repository**: [FEGC GitHub](https://github.com/imanfarahbakhsh/FEGC1.0)  
 **License**: MIT License  
 
